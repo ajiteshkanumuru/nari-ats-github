@@ -1,0 +1,59 @@
+PRIYA PATEL
+Email: priya.patel@email.com | Phone: (555) 987-6543 | Location: New York, NY
+LinkedIn: linkedin.com/in/priyapatel | GitHub: github.com/priyap
+
+PROFESSIONAL SUMMARY
+Full Stack Developer with 4 years of experience building web applications. Strong front-end skills with growing back-end expertise. Quick learner with passion for new technologies and collaborative team environments.
+
+EXPERIENCE
+
+Software Engineer - WebApp Solutions (2021 - Present)
+• Developed React components for customer-facing web application
+• Built REST APIs using Node.js and Express
+• Worked with PostgreSQL for database design and optimization
+• Implemented responsive UI designs using CSS and Material-UI
+• Participated in code reviews and pair programming sessions
+
+Junior Full Stack Developer - TechStartup (2019 - 2021)
+• Created web pages and components using HTML, CSS, and JavaScript
+• Developed backend services using Python and Flask
+• Maintained MongoDB database for application features
+• Fixed bugs and implemented feature requests based on user feedback
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+New York University (2019)
+
+CERTIFICATIONS
+• AWS Certified Cloud Practitioner (2022)
+
+SKILLS
+Frontend: React, JavaScript, TypeScript (beginner), HTML/CSS, Material-UI
+Backend: Python, Node.js, Express, Flask (basic)
+Databases: PostgreSQL, MongoDB
+Cloud: AWS (EC2, S3 - basic), Heroku
+Tools: Git, VS Code, Postman, Jira
+Other: Agile/Scrum, REST APIs, JSON
+
+PROJECTS
+
+E-commerce Website (2021-2022)
+• Built React frontend for online shopping platform
+• Integrated with third-party payment APIs (Stripe)
+• Collaborated with 2 backend engineers
+• Technologies: React, Node.js, MongoDB
+
+Personal Portfolio Website (2020)
+• Designed and developed personal portfolio site
+• Deployed on AWS S3 and CloudFront
+• Technologies: React, Next.js, CSS
+
+ACHIEVEMENTS
+• Employee of the Month award (Q2 2023)
+• Completed 12-week intensive coding bootcamp
+• Active member of women in tech community
+
+ADDITIONAL INFO
+Languages: English, Gujarati
+Interests: Web design, startup culture, mentoring beginner developers

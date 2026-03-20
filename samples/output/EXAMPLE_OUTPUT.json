@@ -1,0 +1,325 @@
+{
+  "processing_id": "550e8400-e29b-41d4-a716-446655440000",
+  "timestamp": "2024-03-20T10:30:00.000000",
+  "candidate_profile": {
+    "format": "TEXT",
+    "extraction_confidence": 0.95,
+    "extracted_at": "2024-03-20T10:30:00.000000",
+    "full_text": "ALEX JOHNSON Email: alex.johnson@email.com | Phone: (555) 123-4567 | Location: San Francisco, CA GitHub: github.com/alexjohnson | Portfolio: alexjohnson.dev PROFESSIONAL SUMMARY Experienced Full Stack Engineer with 8 years of software development expertise...",
+    "candidate_name": "Alex Johnson",
+    "candidate_email": "alex.johnson@email.com",
+    "candidate_phone": "(555) 123-4567",
+    "candidate_location": "San Francisco, CA",
+    "professional_summary": "Experienced Full Stack Engineer with 8 years of software development expertise. Proven track record of building scalable web applications and leading engineering teams.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "proficiency_level": "senior",
+        "years_of_experience": 8.0,
+        "context": "Backend services, FastAPI, Django"
+      },
+      {
+        "skill_name": "React",
+        "proficiency_level": "senior",
+        "years_of_experience": 6.0,
+        "context": "Frontend development, real-time dashboards"
+      },
+      {
+        "skill_name": "TypeScript",
+        "proficiency_level": "intermediate",
+        "years_of_experience": 4.0,
+        "context": "Modern JavaScript development"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "proficiency_level": "senior",
+        "years_of_experience": 7.0,
+        "context": "Database design, optimization"
+      },
+      {
+        "skill_name": "Docker",
+        "proficiency_level": "senior",
+        "years_of_experience": 5.0,
+        "context": "Containerization, CI/CD"
+      },
+      {
+        "skill_name": "AWS",
+        "proficiency_level": "intermediate",
+        "years_of_experience": 5.0,
+        "context": "EC2, S3, RDS, Lambda"
+      },
+      {
+        "skill_name": "Kubernetes",
+        "proficiency_level": "intermediate",
+        "years_of_experience": 3.0,
+        "context": "Container orchestration"
+      },
+      {
+        "skill_name": "FastAPI",
+        "proficiency_level": "senior",
+        "years_of_experience": 4.0,
+        "context": "High-performance APIs"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Senior Software Engineer",
+        "company": "CloudStack Inc.",
+        "duration_start": "2020",
+        "duration_end": "Present",
+        "duration_years": 4.0,
+        "description": "Led architectural redesign of microservices platform, reducing latency by 40%. Mentored team of 4 junior engineers. Implemented CI/CD pipeline.",
+        "key_achievements": [
+          "Reduced latency by 40% through microservices redesign",
+          "Mentored 4 junior engineers",
+          "Implemented CI/CD pipeline with Docker and Kubernetes",
+          "Designed FastAPI-based REST API serving 100K+ daily requests",
+          "Migrated database from MongoDB to PostgreSQL, improving performance by 60%"
+        ]
+      },
+      {
+        "job_title": "Full Stack Engineer",
+        "company": "DataViz Corp",
+        "duration_start": "2017",
+        "duration_end": "2020",
+        "duration_years": 3.0,
+        "description": "Developed React-based dashboard for real-time data visualization. Built Python backend services. Collaborated with product teams.",
+        "key_achievements": [
+          "Developed React dashboard for real-time data visualization",
+          "Built Python backend services with Django and Flask",
+          "Worked with AWS services for infrastructure",
+          "Implemented JWT-based authentication systems"
+        ]
+      },
+      {
+        "job_title": "Junior Developer",
+        "company": "StartupXYZ",
+        "duration_start": "2015",
+        "duration_end": "2017",
+        "duration_years": 2.0,
+        "description": "Developed full stack features. Maintained legacy codebase. Implemented unit and integration tests.",
+        "key_achievements": [
+          "Developed full stack features",
+          "Reduced technical debt",
+          "Achieved 85% code coverage with tests"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "institution": "University of California, Berkeley",
+        "field_of_study": "Computer Science",
+        "graduation_year": "2015",
+        "gpa": "3.8",
+        "relevant_coursework": [
+          "Data Structures",
+          "Algorithms",
+          "Database Systems",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "Real-time Analytics Platform",
+        "description": "Designed and built high-performance data ingestion pipeline. Developed React UI for analytics dashboard. Deployed on AWS.",
+        "technologies": [
+          "Python",
+          "Kafka",
+          "React",
+          "PostgreSQL",
+          "AWS"
+        ],
+        "date": "2021-2022"
+      },
+      {
+        "project_name": "E-commerce Recommendation Engine",
+        "description": "Built ML recommendation system using Python and scikit-learn. Integrated with FastAPI backend and React frontend.",
+        "technologies": [
+          "Python",
+          "Machine Learning",
+          "scikit-learn",
+          "PostgreSQL",
+          "React"
+        ],
+        "date": "2019-2020"
+      }
+    ],
+    "github_url": "github.com/alexjohnson",
+    "portfolio_url": "alexjohnson.dev",
+    "metadata": {
+      "raw_extraction": true
+    }
+  },
+  "resume_file_format": "TEXT",
+  "job_title": "Senior Full Stack Engineer",
+  "overall_match_score": 8.5,
+  "individual_scores": {
+    "SkillMatcher": {
+      "agent_name": "SkillMatcher",
+      "score": 8.8,
+      "confidence": 0.95,
+      "reasoning": "Excellent skill alignment. Candidate has 9 out of 10 required skills including Python, React, PostgreSQL, Docker, and AWS. Strong mastery in FastAPI and TypeScript. Proficiency levels high across all required technologies. No critical skill gaps.",
+      "key_factors": [
+        "Python (8 years)",
+        "React (6 years)",
+        "PostgreSQL (7 years)",
+        "Docker (5 years)",
+        "FastAPI (4 years)",
+        "AWS (5 years)"
+      ],
+      "improvement_areas": [
+        "Deepen Kubernetes expertise beyond intermediate level",
+        "Consider GraphQL exposure for future relevance"
+      ]
+    },
+    "ExperienceEvaluator": {
+      "agent_name": "ExperienceEvaluator",
+      "score": 8.2,
+      "confidence": 0.92,
+      "reasoning": "Strong career progression with 8 years total experience, 6 years in senior/lead roles. Clear advancement from Junior to Full Stack to Senior Engineer. Currently at Senior level matching role requirement. Recent experience (4 years at senior level) demonstrates sustained competency. Minor concern: Previous roles were in different companies, but progression is clear.",
+      "key_factors": [
+        "8 years total experience",
+        "6+ years in senior/relevant roles",
+        "Clear career progression",
+        "Recent senior-level experience"
+      ],
+      "improvement_areas": [
+        "Consider staying longer in roles to demonstrate stability",
+        "Architect-level experience would strengthen candidacy"
+      ]
+    },
+    "CultureFit": {
+      "agent_name": "CultureFit",
+      "score": 8.4,
+      "confidence": 0.89,
+      "reasoning": "Strong indicators of collaborative and leadership potential. Evidence of mentoring 4 junior engineers shows leadership capability. Led architectural redesign demonstrates initiative and system thinking. Presented at conference shows communication and knowledge sharing. Open source contributions show community engagement. Strong fit for senior role requiring mentorship.",
+      "key_factors": [
+        "Mentored 4 junior engineers",
+        "Led architectural redesign initiative",
+        "Presented at Python Conference",
+        "Open source contributor",
+        "Cross-functional collaboration"
+      ],
+      "improvement_areas": [
+        "Consider formal leadership training",
+        "Expand community involvement"
+      ]
+    }
+  },
+  "confidence_level": 0.92,
+  "reasoning": "Multi-agent consensus: SkillMatcher: Excellent skill alignment. Candidate has 9 out of 10 required skills...; ExperienceEvaluator: Strong career progression with 8 years total experience, 6 years in senior/lead roles...",
+  "bias_analysis": {
+    "detected_biases": [
+      {
+        "flag_type": "proxy_discriminator",
+        "severity": "low",
+        "description": "Graduation year 2015 suggests age ~31-32. This could be proxy for age discrimination if scoring differs significantly from similarly qualified candidates.",
+        "recommendation": "Focus on experience quality, not graduation timing. Compare against other candidates of different ages."
+      }
+    ],
+    "risk_level": "low",
+    "overall_assessment": "Found 1 potential bias indicator at LOW risk level. Candidate evaluated primarily on skills and experience. No major red flags detected.",
+    "recommendations": [
+      "Continue standard hire process",
+      "Ensure diverse interview panel",
+      "Use structured interviews with standardized questions",
+      "Document decision rationale for compliance",
+      "Compare scoring against other candidates of different demographics"
+    ]
+  },
+  "portfolio_evidence": {
+    "source": "github",
+    "profile_url": "github.com/alexjohnson",
+    "key_projects": [
+      {
+        "project_name": "Real-time Analytics Platform",
+        "description": "High-performance data ingestion pipeline with React dashboard",
+        "technologies": [
+          "Python",
+          "Kafka",
+          "React"
+        ],
+        "url": "github.com/alexjohnson/analytics-platform",
+        "date": "2021-2022"
+      },
+      {
+        "project_name": "Open Source FastAPI Contribution",
+        "description": "Contributed performance optimizations to FastAPI framework",
+        "technologies": [
+          "Python",
+          "FastAPI"
+        ],
+        "url": "github.com/tiangolo/fastapi",
+        "date": "2020-2023"
+      }
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "frameworks": [
+      "FastAPI",
+      "React",
+      "Django",
+      "Flask",
+      "Node.js"
+    ],
+    "verified_skills": [
+      "Full Stack Development",
+      "API Design",
+      "System Architecture",
+      "Performance Optimization",
+      "Open Source Contribution"
+    ],
+    "contribution_score": 8.5,
+    "analysis": "GitHub profile shows strong contributions over multiple years. 15+ repositories with demonstrated expertise in Python, JavaScript, and full-stack development. Active open source contributor. Consistent code quality and project completeness. Strong evidence supporting claimed skills."
+  },
+  "hiring_recommendation": "strong_yes",
+  "recommendations_for_hiring": [
+    "Fast-track to offer stage - strong technical and cultural fit",
+    "Schedule technical deep-dive on system design and architecture",
+    "Ask about leadership experience and team management philosophy",
+    "Discuss growth trajectory and career aspirations",
+    "Consider for technical lead or architect track"
+  ],
+  "feedback_for_candidate": [
+    "Excellent match on core required skills",
+    "Strong demonstration of leadership through mentoring",
+    "Consider deepening Kubernetes expertise for cloud-native roles",
+    "Your open source contributions are a major plus",
+    "Consider pursuing architect certifications for future growth"
+  ],
+  "decision_factors": {
+    "recommendation": "strong_yes",
+    "hiring_rationale": "Exceptional technical fit with 8.8/10 skills score, proven leadership and mentoring experience, and demonstrated system design capability. 8 years of directly relevant experience with clear progression. GitHub portfolio confirms technical expertise. Rare candidate who combines senior technical skills with leadership and communication abilities.",
+    "key_strengths": [
+      "Exceptional technical skills coverage (9/10 required skills)",
+      "Proven leadership and mentoring ability",
+      "Clear career progression to senior level",
+      "Strong architectural and system design capability",
+      "Active in open source community"
+    ],
+    "key_concerns": [
+      "Relatively frequent job changes (2 previous roles in 3-year periods)",
+      "Kubernetes experience could be deeper for cloud-native focus"
+    ],
+    "next_steps": [
+      "Schedule 1-hour technical interview",
+      "System design round (2 hours)",
+      "Team culture fit conversation",
+      "Discuss compensation and benefits"
+    ],
+    "interview_focus_areas": [
+      "Experience leading architectural decisions and system design",
+      "Approach to mentoring and team development",
+      "Examples of handling technical debt and legacy code",
+      "Experience with large-scale systems and performance optimization"
+    ],
+    "feedback_for_candidate": "Strong technical background with proven leadership skills. You are exactly the type of senior engineer we're looking for. Your GitHub contributions and architecture work are particularly impressive.",
+    "additional_notes": "This is a high-quality candidate who stands out from typical applicants. Recommend prioritizing interview scheduling. Would be valuable addition to engineering team in technical lead or architect capacity."
+  }
+}

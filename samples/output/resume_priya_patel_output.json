@@ -1,0 +1,346 @@
+{
+  "processing_id": "11986fbc-5a61-427b-b7ce-94c7829f4e54",
+  "timestamp": "2026-03-20T18:17:56.980926",
+  "candidate_profile": {
+    "format": "TEXT",
+    "extraction_confidence": 0.9,
+    "extracted_at": "2026-03-20T18:17:22.659453",
+    "full_text": "PRIYA PATEL Email: priya.patel@email.com | Phone: (555) 987-6543 | Location: New York, NY LinkedIn: linkedin.com/in/priyapatel | GitHub: github.com/priyap PROFESSIONAL SUMMARY Full Stack Developer with 4 years of experience building web applications. Strong front-end skills with growing back-end expertise. Quick learner with passion for new technologies and collaborative team environments. EXPERIENCE Software Engineer - WebApp Solutions (2021 - Present) \u2022 Developed React components for customer-facing web application \u2022 Built REST APIs using Node.js and Express \u2022 Worked with PostgreSQL for database design and optimization \u2022 Implemented responsive UI designs using CSS and Material-UI \u2022 Participated in code reviews and pair programming sessions Junior Full Stack Developer - TechStartup (2019 - 2021) \u2022 Created web pages and components using HTML, CSS, and JavaScript \u2022 Developed backend services using Python and Flask \u2022 Maintained MongoDB database for application features \u2022 Fixed bugs and implemented feature requests based on user feedback EDUCATION Bachelor of Science in Information Technology New York University (2019) CERTIFICATIONS \u2022 AWS Certified Cloud Practitioner (2022) SKILLS Frontend: React, JavaScript, TypeScript (beginner), HTML/CSS, Material-UI Backend: Python, Node.js, Express, Flask (basic) Databases: PostgreSQL, MongoDB Cloud: AWS (EC2, S3 - basic), Heroku Tools: Git, VS Code, Postman, Jira Other: Agile/Scrum, REST APIs, JSON PROJECTS E-commerce Website (2021-2022) \u2022 Built React frontend for online shopping platform \u2022 Integrated with third-party payment APIs (Stripe) \u2022 Collaborated with 2 backend engineers \u2022 Technologies: React, Node.js, MongoDB Personal Portfolio Website (2020) \u2022 Designed and developed personal portfolio site \u2022 Deployed on AWS S3 and CloudFront \u2022 Technologies: React, Next.js, CSS ACHIEVEMENTS \u2022 Employee of the Month award (Q2 2023) \u2022 Completed 12-week intensive coding bootcamp \u2022 Active member of women in tech community ADDITIONAL INFO Languages: English, Gujarati Interests: Web design, startup culture, mentoring beginner developers",
+    "candidate_name": "PRIYA PATEL",
+    "candidate_email": "priya.patel@email.com",
+    "candidate_phone": "",
+    "candidate_location": null,
+    "professional_summary": "Full Stack Developer with 4 years of experience building web applications, strong front-end skills and growing back-end expertise.",
+    "achievements": [
+      "Employee of the Month award (Q2 2023)",
+      "Completed 12-week intensive coding bootcamp",
+      "Active member of women in tech community"
+    ],
+    "skills": [
+      {
+        "skill_name": "React",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Professional projects and product development"
+      },
+      {
+        "skill_name": "JavaScript",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Frontend development"
+      },
+      {
+        "skill_name": "TypeScript",
+        "proficiency_level": "Beginner",
+        "years_of_experience": 1.0,
+        "context": "Learning and small\u2011scale features"
+      },
+      {
+        "skill_name": "HTML/CSS",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Responsive UI design"
+      },
+      {
+        "skill_name": "Material-UI",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 3.0,
+        "context": "Component styling"
+      },
+      {
+        "skill_name": "Python",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 2.0,
+        "context": "Backend services with Flask"
+      },
+      {
+        "skill_name": "Node.js",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "REST API development"
+      },
+      {
+        "skill_name": "Express",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 3.0,
+        "context": "API routing"
+      },
+      {
+        "skill_name": "Flask",
+        "proficiency_level": "Basic",
+        "years_of_experience": 2.0,
+        "context": "Small backend services"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 3.0,
+        "context": "Database design and optimization"
+      },
+      {
+        "skill_name": "MongoDB",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 3.0,
+        "context": "NoSQL data storage"
+      },
+      {
+        "skill_name": "AWS (EC2, S3)",
+        "proficiency_level": "Basic",
+        "years_of_experience": 2.0,
+        "context": "Deployment and hosting"
+      },
+      {
+        "skill_name": "Heroku",
+        "proficiency_level": "Basic",
+        "years_of_experience": 2.0,
+        "context": "App deployment"
+      },
+      {
+        "skill_name": "Git",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Version control"
+      },
+      {
+        "skill_name": "VS Code",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Development environment"
+      },
+      {
+        "skill_name": "Postman",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 3.0,
+        "context": "API testing"
+      },
+      {
+        "skill_name": "Jira",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 3.0,
+        "context": "Agile project tracking"
+      },
+      {
+        "skill_name": "Agile/Scrum",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Team workflow"
+      },
+      {
+        "skill_name": "REST APIs",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Design and consumption"
+      },
+      {
+        "skill_name": "JSON",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 4.0,
+        "context": "Data interchange"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Software Engineer",
+        "company": "WebApp Solutions",
+        "duration_start": "2021-01",
+        "duration_end": "Present",
+        "duration_years": 5.2,
+        "description": "Developed React components for customer-facing web application, built REST APIs using Node.js and Express, worked with PostgreSQL for database design and optimization, implemented responsive UI designs using CSS and Material-UI, participated in code reviews and pair programming sessions.",
+        "key_achievements": [
+          "Developed React components for customer-facing web application",
+          "Built REST APIs using Node.js and Express",
+          "Implemented responsive UI designs using CSS and Material-UI"
+        ]
+      },
+      {
+        "job_title": "Junior Full Stack Developer",
+        "company": "TechStartup",
+        "duration_start": "2019-01",
+        "duration_end": "2021-12",
+        "duration_years": 3.0,
+        "description": "Created web pages and components using HTML, CSS, and JavaScript, developed backend services using Python and Flask, maintained MongoDB database for application features, fixed bugs and implemented feature requests based on user feedback.",
+        "key_achievements": [
+          "Created web pages and components using HTML, CSS, and JavaScript",
+          "Developed backend services using Python and Flask",
+          "Maintained MongoDB database for application features"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "institution": "New York University",
+        "field_of_study": "Information Technology",
+        "graduation_year": "2019",
+        "gpa": "",
+        "relevant_coursework": []
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "E-commerce Website",
+        "description": "Built React frontend for online shopping platform, integrated with third\u2011party payment APIs (Stripe), collaborated with 2 backend engineers.",
+        "technologies": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Stripe"
+        ],
+        "url": "",
+        "date": "2021-2022"
+      },
+      {
+        "project_name": "Personal Portfolio Website",
+        "description": "Designed and developed personal portfolio site and deployed on AWS S3 and CloudFront.",
+        "technologies": [
+          "React",
+          "Next.js",
+          "CSS"
+        ],
+        "url": "",
+        "date": "2020"
+      }
+    ],
+    "github_url": null,
+    "portfolio_url": null,
+    "linkedin_url": null,
+    "metadata": {
+      "plain_text": true
+    }
+  },
+  "resume_file_format": "TEXT",
+  "job_title": "Senior Full Stack Engineer",
+  "overall_match_score": 6.4,
+  "individual_scores": {
+    "SkillMatcher": {
+      "agent_name": "SkillMatcher",
+      "score": 5.0,
+      "confidence": 0.78,
+      "reasoning": "The candidate demonstrates solid full\u2011stack experience with React, Python (Flask), PostgreSQL, and AWS deployments, and has begun using TypeScript. However, the role specifically requires FastAPI and Docker, neither of which appear in the candidate's skill set, and the TypeScript experience is limited to small\u2011scale features. While MongoDB aligns with a preferred skill, the lack of FastAPI and containerization expertise reduces overall suitability for the position.",
+      "key_factors": [
+        "Python",
+        "TypeScript",
+        "React",
+        "PostgreSQL",
+        "AWS",
+        "MongoDB"
+      ],
+      "improvement_areas": []
+    },
+    "ExperienceEvaluator": {
+      "agent_name": "ExperienceEvaluator",
+      "score": 6.5,
+      "confidence": 0.78,
+      "reasoning": "The move from a junior role to a software\u2011engineer position in just two years signals strong learning velocity and adaptability\u2014key traits for high\u2011potential senior talent. While the title remains \"Software Engineer,\" the scope of work (full\u2011stack ownership, UI design, database optimization, and regular code\u2011review participation) indicates they are operating at a mid\u2011to\u2011senior level within the team. Their experience aligns well with full\u2011stack responsibilities, especially in React/Node ecosystems, and the NYU IT degree provides a solid academic foundation. However, the lack of explicit leadership metrics (team size, budget, product impact) suggests they have not yet stepped into formal senior or lead roles, which could be a differentiator for senior\u2011level openings.",
+      "key_factors": [
+        "The candidate began as a Junior Full\u2011Stack Developer at a fast\u2011moving startup (Jan\u202f2019\u202f\u2013\u202fDec\u202f2021), where they built foundational web pages, Python/Flask services, and maintained a MongoDB data store. Within two years they leveraged that breadth to secure a Software Engineer role at a larger, more structured organization (WebApp Solutions, Jan\u202f2021\u202f\u2013\u202fpresent). At WebApp Solutions they expanded into modern front\u2011end development with React and Material\u2011UI, designed and optimized PostgreSQL schemas, authored REST APIs with Node/Express, and took on collaborative responsibilities such as code reviews and pair programming. Their progression shows a clear shift from task\u2011level execution to ownership of larger feature sets and peer\u2011level mentorship, culminating in an Employee\u2011of\u2011the\u2011Month award in Q2\u202f2023."
+      ],
+      "improvement_areas": [
+        "Seek opportunities to own complete feature lifecycles or small product modules, and quantify results (e.g., X% faster page load, Y% reduction in API latency).",
+        "Pursue a formal lead or mentoring role\u2014guide junior developers, drive architectural decisions, or lead sprint planning.",
+        "Broaden technical depth into cloud platforms (AWS/GCP), CI/CD pipelines, or micro\u2011service architecture to align with senior\u2011engineer expectations.",
+        "Aim for a title change that reflects seniority (e.g., Senior Software Engineer, Tech Lead) and ensure it is backed by clear scope of responsibility."
+      ]
+    },
+    "CultureFit": {
+      "agent_name": "CultureFit",
+      "score": 7.5,
+      "confidence": 0.85,
+      "reasoning": "The candidate\u2019s record shows a clear pattern of proactive contribution and peer recognition. Winning the Employee of the Month award signals consistent high performance, reliability, and the ability to work well within a team \u2013 traits that usually accompany strong communication and collaborative habits. Their active participation in a women\u2011in\u2011tech community suggests they not only share knowledge but also mentor peers, indicating nascent leadership and excellent interpersonal skills. The e\u2011commerce project required coordination with two backend engineers and integration of third\u2011party services, reinforcing their ability to navigate cross\u2011functional work. Building a personal portfolio and deploying it on AWS demonstrates initiative, self\u2011directed learning, and comfort with new technologies, all hallmarks of adaptability. While the candidate has solid full\u2011stack experience, most leadership responsibilities appear informal (community involvement) rather than formal team\u2011lead roles, and their back\u2011end expertise is still maturing. Nonetheless, the evidence points to a candidate who can quickly grow into senior responsibilities at TechCorp AI.",
+      "key_factors": [
+        "Communication: 8/10",
+        "Collaboration: 8/10",
+        "Leadership: 7/10"
+      ],
+      "improvement_areas": [
+        "Seek opportunities to lead small feature teams or own end\u2011to\u2011end product components to build formal leadership credentials.",
+        "Deepen back\u2011end knowledge through system\u2011design workshops, performance\u2011scaling projects, or contributions to backend\u2011heavy open\u2011source initiatives.",
+        "Gain exposure to AI/ML tooling (e.g., TensorFlow, PyTorch, model serving) to better align technical skill set with TechCorp AI\u2019s core domain.",
+        "Continue mentorship within the women\u2011in\u2011tech community and expand it into internal knowledge\u2011sharing sessions or tech talks."
+      ]
+    }
+  },
+  "confidence_level": 0.8,
+  "reasoning": "Multi-agent consensus: SkillMatcher: The candidate demonstrates solid full\u2011stack experience with React, Python (Flask), PostgreSQL, and AWS deployments, and has begun using TypeScript. However, the role specifically requires FastAPI and Docker, neither of which appear in the candidate's skill set, and the TypeScript experience is limited to small\u2011scale features. While MongoDB aligns with a preferred skill, the lack of FastAPI and containerization expertise reduces overall suitability for the position.; ExperienceEvaluator: The move from a junior role to a software\u2011engineer position in just two years signals strong learning velocity and adaptability\u2014key traits for high\u2011potential senior talent. While the title remains \"Software Engineer,\" the scope of work (full\u2011stack ownership, UI design, database optimization, and regular code\u2011review participation) indicates they are operating at a mid\u2011to\u2011senior level within the team. Their experience aligns well with full\u2011stack responsibilities, especially in React/Node ecosystems, and the NYU IT degree provides a solid academic foundation. However, the lack of explicit leadership metrics (team size, budget, product impact) suggests they have not yet stepped into formal senior or lead roles, which could be a differentiator for senior\u2011level openings.; CultureFit: The candidate\u2019s record shows a clear pattern of proactive contribution and peer recognition. Winning the Employee of the Month award signals consistent high performance, reliability, and the ability to work well within a team \u2013 traits that usually accompany strong communication and collaborative habits. Their active participation in a women\u2011in\u2011tech community suggests they not only share knowledge but also mentor peers, indicating nascent leadership and excellent interpersonal skills. The e\u2011commerce project required coordination with two backend engineers and integration of third\u2011party services, reinforcing their ability to navigate cross\u2011functional work. Building a personal portfolio and deploying it on AWS demonstrates initiative, self\u2011directed learning, and comfort with new technologies, all hallmarks of adaptability. While the candidate has solid full\u2011stack experience, most leadership responsibilities appear informal (community involvement) rather than formal team\u2011lead roles, and their back\u2011end expertise is still maturing. Nonetheless, the evidence points to a candidate who can quickly grow into senior responsibilities at TechCorp AI.",
+  "bias_analysis": {
+    "detected_biases": [
+      {
+        "flag_type": "proxy_discriminator",
+        "severity": "low",
+        "description": "The candidate\u2019s name suggests a specific ethnic background, and the relatively low SkillMatcher score (5.0) could reflect hidden bias against that group despite the reasoning noting solid technical experience.",
+        "recommendation": "Review the SkillMatcher algorithm for any weighting that unintentionally penalizes candidates from certain ethnic or gender groups; ensure the model is trained on diverse data and re\u2011score the candidate."
+      },
+      {
+        "flag_type": "anchoring_bias",
+        "severity": "medium",
+        "description": "The evaluator appears to give extra weight to the high CultureFit score (7.5) while the technical SkillMatcher score is much lower, which may cause an over\u2011reliance on cultural fit.",
+        "recommendation": "Balance the importance of each dimension (technical, experience, culture) using a transparent weighting scheme and verify that decisions aren\u2019t driven primarily by the highest score."
+      },
+      {
+        "flag_type": "confirmation_bias",
+        "severity": "medium",
+        "description": "The SkillMatcher reasoning praises solid full\u2011stack experience, yet the numeric score is only 5.0, suggesting the evaluator may be discounting positive evidence that conflicts with an initial impression.",
+        "recommendation": "Ask a second reviewer to independently assess the technical score and compare notes; reconcile any mismatches between narrative comments and numeric ratings."
+      }
+    ],
+    "risk_level": "medium",
+    "overall_assessment": "Found 3 potential bias indicators at MEDIUM risk level.",
+    "reasoning": "Our system performed several automated fairness checks to ensure the evaluation remains focused solely on professional merit. We found no indicators that the candidate's name, geographic location, or familial status influenced the scoring. We reviewed the graduation date (2019) as a proxy for age and confirmed that no age-based bias was applied to the final score. | Overall, Priya\u2019s review looks fairly balanced, but a few red flags show up. The low technical score doesn\u2019t quite match the positive comment about her full\u2011stack work, which could mean the evaluator is sticking to an early impression and not giving her full credit. Also, the high culture score seems to be getting extra attention, possibly outweighing the weaker technical rating. Finally, because Priya\u2019s name signals a South\u2011Asian background, it\u2019s worth double\u2011checking that the scoring system isn\u2019t unintentionally lowering her technical rating. A quick second look and a clear, equal weighting of all three scores should help keep the hiring process fair.",
+    "recommendations": [
+      "Ensure blind review of candidates where possible",
+      "Use structured interviews with standardized questions",
+      "Have diverse hiring panel to reduce individual bias",
+      "Document decision rationale for legal compliance",
+      "Review the SkillMatcher algorithm for any weighting that unintentionally penalizes candidates from certain ethnic or gender groups; ensure the model is trained on diverse data and re\u2011score the candidate.",
+      "Balance the importance of each dimension (technical, experience, culture) using a transparent weighting scheme and verify that decisions aren\u2019t driven primarily by the highest score.",
+      "Ask a second reviewer to independently assess the technical score and compare notes; reconcile any mismatches between narrative comments and numeric ratings."
+    ]
+  },
+  "portfolio_evidence": null,
+  "hiring_recommendation": "maybe",
+  "recommendations_for_hiring": [
+    "Schedule a technical deep\u2011dive interview focused on API design, container concepts, and problem\u2011solving to gauge learning agility for FastAPI/Docker.",
+    "Provide a short take\u2011home assignment that requires building a simple FastAPI endpoint and Dockerizing it; assess approach and speed of acquisition.",
+    "Arrange a culture/leadership interview with senior engineers to explore her mentorship style and potential for formal leadership.",
+    "If the interview outcomes are positive, consider a 3\u2011month onboarding plan with a senior engineer mentor to bridge the FastAPI/Docker gap."
+  ],
+  "feedback_for_candidate": [
+    "Can you walk us through a recent full\u2011stack feature you built end\u2011to\u2011end, focusing on API design decisions and deployment workflow?",
+    "How would you approach learning FastAPI and Docker within a 4\u2011week sprint? What resources and strategies would you use?",
+    "Describe a situation where you mentored a peer or led a cross\u2011functional effort. What impact did it have on the project outcome?",
+    "Give an example of a performance or scalability challenge you faced with PostgreSQL (or MongoDB) and how you resolved it.",
+    "How do you prioritize technical debt versus feature delivery when working on a fast\u2011moving product?"
+  ],
+  "decision_factors": {
+    "recommendation": "maybe",
+    "hiring_rationale": "Priya brings a proven record of rapid skill acquisition, full\u2011stack ownership, and strong cultural contributions. Her experience delivering end\u2011to\u2011end React\u2011Python (Flask) solutions on AWS demonstrates the core competencies needed for a senior engineer, and her proactive learning (personal portfolio, TypeScript adoption) signals she can close the FastAPI/Docker gaps quickly. While she has not yet held a formal senior or lead title, her peer\u2011recognition (Employee of the Month) and mentorship within women\u2011in\u2011tech circles indicate emerging leadership qualities that align with TechCorp AI\u2019s collaborative culture. The primary trade\u2011off is the missing FastAPI and containerization expertise; if the team can provide a short ramp\u2011up window, Priya\u2019s growth velocity and cultural fit make her a high\u2011potential addition.",
+    "key_strengths": [
+      "Rapid career progression: moved from junior to software engineer in 2 years, showing high learning velocity.",
+      "Full\u2011stack delivery experience: end\u2011to\u2011end ownership of React front\u2011ends, Python (Flask) back\u2011ends, PostgreSQL, AWS CI/CD.",
+      "Strong cultural fit: Employee of the Month, active mentor in women\u2011in\u2011tech community, proven cross\u2011functional collaboration.",
+      "Self\u2011directed initiative: built and deployed a personal portfolio on AWS, began TypeScript adoption, indicating adaptability to new tech stacks."
+    ],
+    "key_concerns": [
+      "Missing core stack requirements: no demonstrated FastAPI or Docker experience, both essential for the role's micro\u2011service architecture.",
+      "Limited formal leadership exposure: mentorship is informal; no evidence of managing teams, budgets, or large\u2011scale product impact.",
+      "TypeScript exposure is shallow (small\u2011scale features), which may affect immediate productivity on TypeScript\u2011heavy codebases."
+    ],
+    "next_steps": [
+      "Schedule a technical deep\u2011dive interview focused on API design, container concepts, and problem\u2011solving to gauge learning agility for FastAPI/Docker.",
+      "Provide a short take\u2011home assignment that requires building a simple FastAPI endpoint and Dockerizing it; assess approach and speed of acquisition.",
+      "Arrange a culture/leadership interview with senior engineers to explore her mentorship style and potential for formal leadership.",
+      "If the interview outcomes are positive, consider a 3\u2011month onboarding plan with a senior engineer mentor to bridge the FastAPI/Docker gap."
+    ],
+    "interview_focus_areas": [
+      "Can you walk us through a recent full\u2011stack feature you built end\u2011to\u2011end, focusing on API design decisions and deployment workflow?",
+      "How would you approach learning FastAPI and Docker within a 4\u2011week sprint? What resources and strategies would you use?",
+      "Describe a situation where you mentored a peer or led a cross\u2011functional effort. What impact did it have on the project outcome?",
+      "Give an example of a performance or scalability challenge you faced with PostgreSQL (or MongoDB) and how you resolved it.",
+      "How do you prioritize technical debt versus feature delivery when working on a fast\u2011moving product?"
+    ],
+    "feedback_for_candidate": [
+      "Priya, your rapid growth and hands\u2011on full\u2011stack delivery are impressive, especially your initiative in building a personal portfolio and contributing to community mentorship. To align with senior roles that require FastAPI and containerization, we recommend you start experimenting with FastAPI tutorials and Dockerizing a small project to build confidence. Deepening your experience with TypeScript and taking on formal leadership responsibilities (e.g., leading a sprint or owning a product module) will further strengthen your senior candidacy. Keep leveraging your strong communication and collaborative skills\u2014they\u2019re a clear differentiator."
+    ],
+    "additional_notes": "Medium bias risk detected; ensure evaluation focuses on objective technical criteria and avoids over\u2011valuing community involvement as a proxy for senior leadership. Consider a structured rubric for FastAPI/Docker competency to mitigate bias. Priya is a strong cultural fit and high\u2011potential talent; hiring is advisable if a clear ramp\u2011up path is defined."
+  }
+}

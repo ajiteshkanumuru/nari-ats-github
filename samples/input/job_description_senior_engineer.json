@@ -1,0 +1,32 @@
+{
+  "job_title": "Senior Full Stack Engineer",
+  "company": "TechCorp AI",
+  "description": "We are looking for a Senior Full Stack Engineer to lead our AI/ML platform development. You will work on cutting-edge technologies, mentor junior engineers, and drive architectural decisions.",
+  "required_skills": [
+    "Python",
+    "TypeScript",
+    "React",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker",
+    "AWS"
+  ],
+  "preferred_skills": [
+    "Machine Learning",
+    "Kubernetes",
+    "GraphQL",
+    "MongoDB",
+    "System Design"
+  ],
+  "years_of_experience_min": 5,
+  "years_of_experience_max": 15,
+  "education_requirements": [
+    "Bachelor's in Computer Science or related field"
+  ],
+  "preferred_certifications": [
+    "AWS Solutions Architect",
+    "Kubernetes Administrator"
+  ],
+  "level": "senior",
+  "department": "Engineering"
+}

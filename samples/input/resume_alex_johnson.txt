@@ -1,0 +1,64 @@
+ALEX JOHNSON
+Email: alex.johnson@email.com | Phone: (555) 123-4567 | Location: San Francisco, CA
+GitHub: github.com/alexjohnson | Portfolio: alexjohnson.dev
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Engineer with 8 years of software development expertise. Proven track record of building scalable web applications and leading engineering teams. Passionate about clean code, system design, and mentoring junior developers. Expertise in Python, TypeScript, React, and cloud technologies.
+
+EXPERIENCE
+
+Senior Software Engineer - CloudStack Inc. (2020 - Present)
+• Led architectural redesign of microservices platform, reducing latency by 40%
+• Mentored team of 4 junior engineers, conducting code reviews and design discussions
+• Implemented CI/CD pipeline using Docker and Kubernetes, improving deployment frequency
+• Designed and built FastAPI-based REST API serving 100K+ daily requests
+• Migrated database from MongoDB to PostgreSQL, improving query performance by 60%
+
+Full Stack Engineer - DataViz Corp (2017 - 2020)
+• Developed React-based dashboard for real-time data visualization
+• Built Python backend services using Django and Flask frameworks
+• Worked with AWS services (EC2, S3, RDS, Lambda) for infrastructure
+• Implemented authentication and authorization systems using JWT tokens
+• Collaborated with product and design teams to implement new features
+
+Junior Developer - StartupXYZ (2015 - 2017)
+• Developed full stack features using JavaScript and Python
+• Maintained and improved legacy codebase, reducing technical debt
+• Implemented unit and integration tests, achieving 85% code coverage
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley (2015)
+GPA: 3.8/4.0
+
+SKILLS
+Backend: Python, FastAPI, Django, Flask, Node.js, SQL
+Frontend: React, TypeScript, JavaScript, HTML/CSS, Redux, Next.js
+Databases: PostgreSQL, MongoDB, Redis
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Linux
+Tools & Platforms: Git, GitHub, Jira, Slack, Figma
+System Design: Microservices, API Design, Database Design, Caching
+
+PROJECTS
+
+Real-time Analytics Platform (2021-2022)
+• Designed and built high-performance data ingestion pipeline using Python and Kafka
+• Developed React UI for analytics dashboard with real-time updates
+• Deployed on AWS using ECS and RDS
+• Technologies: Python, TypeScript, React, PostgreSQL, AWS
+
+E-commerce Recommendation Engine (2019-2020)
+• Built machine learning recommendation system using Python and scikit-learn
+• Integrated with FastAPI backend and React frontend
+• Achieved 35% improvement in user engagement metrics
+• Technologies: Python, Machine Learning, PostgreSQL, React
+
+CERTIFICATIONS
+• AWS Solutions Architect Associate (2021)
+• Docker Certified Associate (2022)
+
+ACHIEVEMENTS
+• Winner of internal Tech Innovation Award 2023
+• Presented at Python Conference 2021 on Scalable API Design
+• Open source contributor: Contributed to FastAPI and Django projects

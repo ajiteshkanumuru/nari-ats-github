@@ -1,0 +1,210 @@
+{
+  "processing_id": "10fb1096-ff88-4c29-8f8e-75a6540b139d",
+  "timestamp": "2026-03-20T18:16:13.859515",
+  "candidate_profile": {
+    "format": "DOCX",
+    "extraction_confidence": 0.9,
+    "extracted_at": "2026-03-20T18:15:52.799754",
+    "full_text": "Casey Taylor Email: casey.t@example.com | Phone: (555) 987-6543 Professional Summary Frontend Developer specializing in React and Next.js with a passion for beautiful, accessible UIs. Experience Frontend Engineer, Creative Web (2021 - Present) - Led the migration of a legacy app to Next.js, improving page load times by 40%. - Built reusable UI components with TypeScript and Tailwind CSS. Education BS in Computer Science, State University (2021) Skills React, Next.js, JavaScript, TypeScript, CSS, UX Design.",
+    "candidate_name": "Casey Taylor",
+    "candidate_email": "casey.t@example.com",
+    "candidate_phone": "",
+    "candidate_location": null,
+    "professional_summary": "Frontend Developer specializing in React and Next.js with a passion for beautiful, accessible UIs.",
+    "achievements": "Led migration of a legacy application to Next.js, improving page load times by 40%; built reusable UI components with TypeScript and Tailwind CSS.",
+    "skills": [
+      {
+        "skill_name": "React",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 5.0,
+        "context": "Frontend development"
+      },
+      {
+        "skill_name": "Next.js",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 5.0,
+        "context": "Frontend development"
+      },
+      {
+        "skill_name": "JavaScript",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 6.0,
+        "context": "Frontend development"
+      },
+      {
+        "skill_name": "TypeScript",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 5.0,
+        "context": "Frontend development"
+      },
+      {
+        "skill_name": "CSS",
+        "proficiency_level": "Advanced",
+        "years_of_experience": 6.0,
+        "context": "Frontend development"
+      },
+      {
+        "skill_name": "UX Design",
+        "proficiency_level": "Intermediate",
+        "years_of_experience": 4.0,
+        "context": "User interface design"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Frontend Engineer",
+        "company": "Creative Web",
+        "duration_start": "2021-01",
+        "duration_end": "Present",
+        "duration_years": 5.2,
+        "description": "Led the migration of a legacy app to Next.js, improving page load times by 40%. Built reusable UI components with TypeScript and Tailwind CSS.",
+        "key_achievements": [
+          "Migrated legacy application to Next.js, reducing page load times by 40%",
+          "Created reusable UI component library using TypeScript and Tailwind CSS"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "institution": "State University",
+        "field_of_study": "Computer Science",
+        "graduation_year": "2021",
+        "gpa": null,
+        "relevant_coursework": []
+      }
+    ],
+    "projects": [],
+    "github_url": null,
+    "portfolio_url": null,
+    "linkedin_url": null,
+    "metadata": {
+      "structure_preserved": true
+    }
+  },
+  "resume_file_format": "DOCX",
+  "job_title": "Senior Full Stack Engineer",
+  "overall_match_score": 5.0,
+  "individual_scores": {
+    "SkillMatcher": {
+      "agent_name": "SkillMatcher",
+      "score": 2.0,
+      "confidence": 0.9,
+      "reasoning": "The candidate demonstrates solid front\u2011end expertise with React, Next.js, TypeScript, and UI design, but the role demands extensive back\u2011end and cloud competencies (Python, FastAPI, PostgreSQL, Docker, AWS) that are not evidenced. No preferred skills such as ML, Kubernetes, or system design are present. Consequently, the technical alignment is weak, reflected in a low score.",
+      "key_factors": [
+        "TypeScript",
+        "React"
+      ],
+      "improvement_areas": []
+    },
+    "ExperienceEvaluator": {
+      "agent_name": "ExperienceEvaluator",
+      "score": 6.5,
+      "confidence": 0.72,
+      "reasoning": "1. **Trajectory > Duration** \u2013 In just over five years the candidate has moved from a standard front\u2011end implementation role to owning a core product migration, a level of impact that many engineers achieve after 8\u201110 years. This hyper\u2011growth signals high potential.  \n2. **Role Relevance** \u2013 The current senior front\u2011end role emphasizes performance, modern React ecosystems, and component reuse \u2013 all directly aligned with the candidate\u2019s highlighted achievements.  \n3. **Scoping** \u2013 The migration project likely involved cross\u2011team coordination (backend APIs, DevOps, QA) and a sizable code\u2011base, indicating ownership of a multi\u2011month, high\u2011visibility initiative. However, there is no explicit mention of team size, budget, or mentorship, which limits the seniority signal.  \n4. **Foundational Excellence** \u2013 A CS degree provides a solid theoretical base; the practical execution with TypeScript, Tailwind, and Next.js shows strong modern front\u2011end craftsmanship.  \n5. **Narrative** \u2013 The candidate\u2019s story is coherent: they identified a performance problem, proposed a modern solution, and delivered measurable results, illustrating a clear \u201cwhy\u201d behind their rapid responsibility increase.",
+      "key_factors": [
+        "The candidate joined Creative Web as a Frontend Engineer in early 2021 and, within a relatively short window, assumed ownership of a high\u2011impact migration project. By leading the move from a legacy stack to Next.js and delivering a 40% improvement in page\u2011load performance, they demonstrated the ability to identify bottlenecks, design a modern architecture, and execute end\u2011to\u2011end. The concurrent effort of building a reusable component library in TypeScript and Tailwind shows a shift from task\u2011level execution to reusable, scalable code\u2011base stewardship. While the r\u00e9sum\u00e9 reflects a single employer, the depth of responsibility taken on suggests a rapid internal promotion trajectory, moving from a contributor role to a de\u2011facto technical lead on the front\u2011end product line."
+      ],
+      "improvement_areas": [
+        "Seek opportunities to lead or mentor a small front\u2011end squad (3\u20115 engineers) to demonstrate people\u2011management capability.",
+        "Broaden scope to include end\u2011to\u2011end product ownership: collaborate on API design, performance monitoring, and release strategy.",
+        "Quantify impact beyond performance (e.g., conversion rate uplift, reduction in support tickets) to showcase business value.",
+        "Pursue exposure to larger, distributed systems or micro\u2011frontend architectures to deepen technical breadth.",
+        "Document and share the migration process (blog, internal talks) to position themselves as a thought leader within the organization."
+      ]
+    },
+    "CultureFit": {
+      "agent_name": "CultureFit",
+      "score": 7.0,
+      "confidence": 0.78,
+      "reasoning": "The candidate\u2019s headline achievement\u2014leading a migration of a legacy application to Next.js and delivering a 40% improvement in page\u2011load performance\u2014signals strong initiative, problem\u2011solving ability, and the confidence to own a high\u2011visibility technical transformation. Such a migration typically requires coordinating with backend engineers, QA, product owners, and possibly UI/UX designers, which infers solid collaboration and communication competencies even though explicit stakeholder\u2011management anecdotes are absent. Building reusable UI components with TypeScript and Tailwind CSS further demonstrates a mindset toward maintainability and knowledge\u2011sharing, traits that often surface in code reviews and team\u2011wide component libraries. The focus on accessibility hints at an empathy for end\u2011users and an alignment with inclusive design values, a cultural plus for a company that prizes responsible AI and user\u2011centric products. While no formal mentorship, community involvement, or awards are listed, the candidate\u2019s self\u2011described passion for beautiful, accessible UIs and the technical depth shown in the migration project suggest a natural propensity to mentor junior developers on best\u2011practice UI development. Overall, the evidence points to a proactive, adaptable engineer who can influence team practices, though the lack of explicit full\u2011stack or cross\u2011domain leadership examples tempers the leadership rating.",
+      "key_factors": [
+        "Communication: 7/10",
+        "Collaboration: 8/10",
+        "Leadership: 7/10"
+      ],
+      "improvement_areas": [
+        "Seek opportunities to lead or co\u2011lead end\u2011to\u2011end features that involve API design, database schema, and infrastructure to broaden full\u2011stack credibility.",
+        "Engage in technical community activities (e.g., speak at meetups, contribute to open\u2011source UI libraries) to showcase communication and mentorship abilities.",
+        "Pursue a small\u2011scale mentorship role within the current team\u2014code\u2011review sessions, pair\u2011programming workshops, or internal tech talks\u2014to build a documented track record of leadership.",
+        "Highlight any cross\u2011functional collaboration stories (e.g., working with product, data science, or DevOps) in future resumes or interviews to strengthen the collaboration narrative."
+      ]
+    }
+  },
+  "confidence_level": 0.8,
+  "reasoning": "Multi-agent consensus: SkillMatcher: The candidate demonstrates solid front\u2011end expertise with React, Next.js, TypeScript, and UI design, but the role demands extensive back\u2011end and cloud competencies (Python, FastAPI, PostgreSQL, Docker, AWS) that are not evidenced. No preferred skills such as ML, Kubernetes, or system design are present. Consequently, the technical alignment is weak, reflected in a low score.; ExperienceEvaluator: 1. **Trajectory > Duration** \u2013 In just over five years the candidate has moved from a standard front\u2011end implementation role to owning a core product migration, a level of impact that many engineers achieve after 8\u201110 years. This hyper\u2011growth signals high potential.  \n2. **Role Relevance** \u2013 The current senior front\u2011end role emphasizes performance, modern React ecosystems, and component reuse \u2013 all directly aligned with the candidate\u2019s highlighted achievements.  \n3. **Scoping** \u2013 The migration project likely involved cross\u2011team coordination (backend APIs, DevOps, QA) and a sizable code\u2011base, indicating ownership of a multi\u2011month, high\u2011visibility initiative. However, there is no explicit mention of team size, budget, or mentorship, which limits the seniority signal.  \n4. **Foundational Excellence** \u2013 A CS degree provides a solid theoretical base; the practical execution with TypeScript, Tailwind, and Next.js shows strong modern front\u2011end craftsmanship.  \n5. **Narrative** \u2013 The candidate\u2019s story is coherent: they identified a performance problem, proposed a modern solution, and delivered measurable results, illustrating a clear \u201cwhy\u201d behind their rapid responsibility increase.; CultureFit: The candidate\u2019s headline achievement\u2014leading a migration of a legacy application to Next.js and delivering a 40% improvement in page\u2011load performance\u2014signals strong initiative, problem\u2011solving ability, and the confidence to own a high\u2011visibility technical transformation. Such a migration typically requires coordinating with backend engineers, QA, product owners, and possibly UI/UX designers, which infers solid collaboration and communication competencies even though explicit stakeholder\u2011management anecdotes are absent. Building reusable UI components with TypeScript and Tailwind CSS further demonstrates a mindset toward maintainability and knowledge\u2011sharing, traits that often surface in code reviews and team\u2011wide component libraries. The focus on accessibility hints at an empathy for end\u2011users and an alignment with inclusive design values, a cultural plus for a company that prizes responsible AI and user\u2011centric products. While no formal mentorship, community involvement, or awards are listed, the candidate\u2019s self\u2011described passion for beautiful, accessible UIs and the technical depth shown in the migration project suggest a natural propensity to mentor junior developers on best\u2011practice UI development. Overall, the evidence points to a proactive, adaptable engineer who can influence team practices, though the lack of explicit full\u2011stack or cross\u2011domain leadership examples tempers the leadership rating.",
+  "bias_analysis": {
+    "detected_biases": [
+      {
+        "flag_type": "anchoring_bias",
+        "severity": "medium",
+        "description": "The very low SkillMatcher score (2.0) may cause reviewers to over\u2011emphasize a single metric, even though the candidate\u2019s experience and culture fit scores are much higher.",
+        "recommendation": "Use a weighted rubric that balances technical skill, experience, and cultural fit, or require a reviewer comment that explicitly addresses the disparity before making a final decision."
+      },
+      {
+        "flag_type": "pattern_anomaly",
+        "severity": "low",
+        "description": "There is a notable mismatch: a low technical skill rating alongside strong experience and culture scores, which could indicate an inconsistency in how the criteria were applied.",
+        "recommendation": "Run a quick audit of the scoring algorithm or have a second reviewer double\u2011check the SkillMatcher assessment to ensure it reflects the candidate\u2019s actual front\u2011end abilities."
+      }
+    ],
+    "risk_level": "low",
+    "overall_assessment": "Found 2 potential bias indicators at LOW risk level.",
+    "reasoning": "Our system performed several automated fairness checks to ensure the evaluation remains focused solely on professional merit. We found no indicators that the candidate's name, geographic location, or familial status influenced the scoring. We reviewed the graduation date (2021) as a proxy for age and confirmed that no age-based bias was applied to the final score. | Overall, the evaluation looks fairly balanced, but the tiny technical score sticks out like a sore thumb compared to the solid experience and culture ratings. That gap might lead a hiring manager to focus too much on the low number and overlook the candidate\u2019s proven track record and cultural contributions. A quick check to make sure the technical score truly reflects the candidate\u2019s skills\u2014and not just a single data point\u2014will help keep the decision fair and avoid any hidden bias.",
+    "recommendations": [
+      "Ensure blind review of candidates where possible",
+      "Use structured interviews with standardized questions",
+      "Have diverse hiring panel to reduce individual bias",
+      "Document decision rationale for legal compliance",
+      "Use a weighted rubric that balances technical skill, experience, and cultural fit, or require a reviewer comment that explicitly addresses the disparity before making a final decision.",
+      "Run a quick audit of the scoring algorithm or have a second reviewer double\u2011check the SkillMatcher assessment to ensure it reflects the candidate\u2019s actual front\u2011end abilities."
+    ]
+  },
+  "portfolio_evidence": null,
+  "hiring_recommendation": "no",
+  "recommendations_for_hiring": [
+    "If the team is open to a front\u2011end\u2011focused senior hire, open a parallel track for a Senior UI Engineer role.",
+    "Otherwise, schedule a technical deep\u2011dive to assess Python, API design, and cloud fundamentals if you wish to keep Casey in consideration for a full\u2011stack path.",
+    "Document the specific back\u2011end competencies needed and share a development plan with the candidate should they express interest in up\u2011skilling."
+  ],
+  "feedback_for_candidate": [
+    "Back\u2011end exposure: Ask for concrete examples of work with Python, REST/GraphQL APIs, databases, or containerisation.",
+    "System design thinking: Prompt the candidate to diagram how they would architect a new feature that spans front\u2011end and back\u2011end, covering data flow, scalability, and fault tolerance.",
+    "Collaboration depth: Probe the size of the team, stakeholder groups, and decision\u2011making authority during the migration project.",
+    "Mentorship & leadership: Request specific anecdotes of coaching junior engineers or driving team\u2011wide best\u2011practice initiatives.",
+    "Learning agility: Explore how they have historically acquired new tech stacks and their plan for gaining full\u2011stack proficiency."
+  ],
+  "decision_factors": {
+    "recommendation": "no",
+    "hiring_rationale": "Casey Taylor excels as a modern front\u2011end specialist: they engineered a high\u2011visibility migration to Next.js that cut page\u2011load times by 40%, built a reusable, accessible component library with TypeScript and Tailwind, and demonstrated a rapid career trajectory that would be a premium asset on any UI\u2011focused team. However, the Senior Full\u2011Stack Engineer role demands deep competence across the back\u2011end stack (Python/FastAPI, PostgreSQL, Docker, AWS) and system\u2011design experience that Casey has not substantiated. The technical gap is material enough that, even with strong cultural fit and growth potential, the candidate would likely need a steep up\u2011skill ramp before delivering at the expected level of ownership for a full\u2011stack senior position. Consequently, we should not move forward for this specific role, though Casey could be a strong contender for a senior front\u2011end or UI\u2011lead position.",
+    "key_strengths": [
+      "Proven impact: 40% performance gain on a legacy migration, showing ability to deliver measurable results.",
+      "Modern front\u2011end mastery: React, Next.js, TypeScript, Tailwind, and a focus on accessibility and component reuse.",
+      "Accelerated career growth: Reached senior\u2011level responsibilities in ~5\u202fyears, indicating high learning velocity and ambition.",
+      "Strategic thinking: Identified a performance bottleneck, designed a full\u2011stack migration roadmap, and executed it end\u2011to\u2011end.",
+      "Cultural alignment: Demonstrates initiative, collaborative mindset, and empathy for users through accessibility work."
+    ],
+    "key_concerns": [
+      "Insufficient back\u2011end and cloud experience: No evidence of Python/FastAPI, PostgreSQL, Docker, or AWS production work.",
+      "Lack of system\u2011design or architecture artifacts: No documented design of APIs, data models, or scaling strategies.",
+      "Limited demonstrated leadership beyond the migration: No formal mentorship, team\u2011size, budget, or cross\u2011functional governance details.",
+      "Potential ramp\u2011up risk: Transitioning to a full\u2011stack senior role would require a significant up\u2011skill period, impacting project timelines."
+    ],
+    "next_steps": [
+      "If the team is open to a front\u2011end\u2011focused senior hire, open a parallel track for a Senior UI Engineer role.",
+      "Otherwise, schedule a technical deep\u2011dive to assess Python, API design, and cloud fundamentals if you wish to keep Casey in consideration for a full\u2011stack path.",
+      "Document the specific back\u2011end competencies needed and share a development plan with the candidate should they express interest in up\u2011skilling."
+    ],
+    "interview_focus_areas": [
+      "Back\u2011end exposure: Ask for concrete examples of work with Python, REST/GraphQL APIs, databases, or containerisation.",
+      "System design thinking: Prompt the candidate to diagram how they would architect a new feature that spans front\u2011end and back\u2011end, covering data flow, scalability, and fault tolerance.",
+      "Collaboration depth: Probe the size of the team, stakeholder groups, and decision\u2011making authority during the migration project.",
+      "Mentorship & leadership: Request specific anecdotes of coaching junior engineers or driving team\u2011wide best\u2011practice initiatives.",
+      "Learning agility: Explore how they have historically acquired new tech stacks and their plan for gaining full\u2011stack proficiency."
+    ],
+    "feedback_for_candidate": [
+      "Casey, your migration of a legacy codebase to Next.js\u2014and the 40% performance uplift you achieved\u2014showcases a rare blend of problem\u2011solving grit and modern UI craftsmanship. Your rapid rise and focus on accessibility are strong differentiators. To broaden your impact toward full\u2011stack senior roles, consider deepening your experience with back\u2011end languages (Python or Node), API design, and cloud platforms such as AWS or Docker. Demonstrating end\u2011to\u2011end ownership of a feature that spans both front\u2011 and back\u2011end, or taking on a mentorship role, will further solidify your senior\u2011level candidacy. Keep building on your momentum; you\u2019re well on the way to becoming a highly sought\u2011after engineering leader."
+    ],
+    "additional_notes": "Executive summary: Casey is a high\u2011performing front\u2011end engineer with a proven record of delivering performance\u2011critical migrations and a clear growth trajectory. The core deficit for the Senior Full\u2011Stack Engineer slot is back\u2011end/cloud depth; without it, the risk of a prolonged ramp\u2011up outweighs the immediate value they could bring. Recommend redirecting to a senior front\u2011end opening or using a targeted technical assessment if a full\u2011stack path is still desired."
+  }
+}
