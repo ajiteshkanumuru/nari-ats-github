@@ -53,10 +53,11 @@ graph TD
 
 ### 1. Environment Setup
 
-#### A. Navigate and Activate Virtual Environment
+#### A. Clone the Repository & Navigate
 
-First, open your terminal and navigate to the downloaded repository folder:
+First, open your terminal and clone the repository directly from GitHub:
 ```bash
+git clone https://github.com/ajiteshkanumuru/nari-ats-github.git
 cd nari-ats-github
 ```
 
